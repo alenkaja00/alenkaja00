@@ -8,7 +8,7 @@
 
 🎓 **Double MSc in Data Science**  
 *Politecnico di Milano (IT) & TU Eindhoven (NL)*  
-Specialized in Machine Learning, Distributed Systems, and Software Engineering.
+Specialized in Machine Learning and Software Engineering.
 
 ---
 
